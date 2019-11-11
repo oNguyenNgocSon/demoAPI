@@ -1,9 +1,8 @@
-{
-	"id":1,
+[{
 	"data": {
 		"access_token": "strings",
 		"exp": "mm/dd/yyyy hh:mm"
 	},
 	"message": "Success",
 	"code": 10000
-}
+}]
